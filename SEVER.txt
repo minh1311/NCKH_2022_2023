@@ -1,0 +1,8 @@
+remote-ssh
+ấn "+" ssh namvh@203.162.88.102-p23
+ấn mũi tên
+conda activate thinhdv
+cd AI_team/thinhdv 
+scp 'url' namvh@..bla..bla   : chuyển file lên sẻver
+
+
